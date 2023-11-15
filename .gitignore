@@ -4,6 +4,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+ai_api/lib/*
+ai_api/include/*
+ai_api/bin/*
+
 # C extensions
 *.so
 
